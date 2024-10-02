@@ -48,7 +48,7 @@ En esta asignatura utilizaremos HeidiSQL. Puede descargarlo aquí: https://www.h
 
 ## Puesta en marcha del repositorio del proyecto de grupo
 
-En Enseñanza Virtual, dentro de la carpeta Laboratorio -> LX-XXX (el grupo de laboratorio donde se haya inscrito), encontrará un enlace para aceptar la tarea (assignment) donde se realizarán las entregas del proyecto de curso. Por favor, siga los siguientes pasos:
+En Enseñanza Virtual, dentro de la carpeta Proyecto -> Contenido específico de grupos -> LX-XXX (el grupo de laboratorio donde se haya inscrito), encontrará un enlace para aceptar la tarea (assignment) donde se realizarán las entregas del proyecto de curso. Por favor, siga los siguientes pasos:
 
 - Escoger un estudiante del grupo (será el GROUP CREATOR). Será el responsable de la creación del grupo. IMPORTANTE: SOLO UN ESTUDIANTE (GROUP CREATOR) CREA EL GRUPO. EL RESTO DE LOS MIEMBROS DEBE UNIRSE AL GRUPO CREADO.
 - El GROUP CREATOR hace click en el enlace del assignment y selecciona su nombre de la lista de estudiantes, entonces crea el grupo. El nombre del grupo debe ser el UVUS del GROUP CREATOR de manera que será único en el classroom y fácilmente identificable para el resto de los miembros del grupo (GROUP MEMBER).
